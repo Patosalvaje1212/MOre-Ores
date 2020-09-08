@@ -1,0 +1,26 @@
+{
+  "group": "moreoresmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:coal_block"
+    },
+    "2": {
+      "item": "minecraft:coal_block"
+    },
+    "3": {
+      "item": "minecraft:coal_block"
+    },
+    "5": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "item": "moreoresmod:obsidian_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "More Ores",
+    "icon": {
+      "value": "CUSTOM:ObsidianSword"
+    },
+    "showSearch": false
+  }
+}
